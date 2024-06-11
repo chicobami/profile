@@ -43,7 +43,7 @@
 - 2024年03月28日 [国内最大級の女性&ノンバイナリーの方向けハッカソン「Dots to Code」 #1](https://dotstocode0329.peatix.com/) 【ファイナリスト選出】
 - 2024年05月01日 [【女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/) 【[LT発表](https://www.docswell.com/s/chicobami/ZW1P6Y-2024-05-15-175002)】
 - 2024年05月20日 [アニメ好きエンジニアLT＆交流会](https://aegis.connpass.com/event/316802/) 【[LT発表](https://www.docswell.com/s/chicobami/5M1MM2-2024-05-21-095343)】
-
+- 2024年06月07日 [【エンジニアのためのLT大会】IT/Webエンジニアの『ゾッ』とする話](https://sister.connpass.com/event/319897/) 【[LT発表](https://www.docswell.com/s/chicobami/Z1JPNV-2024-06-11-125508)】
 
 ## Contact
 - twitter: [@jellyf_i_sh_c](https://x.com/jellyf_i_sh_c)

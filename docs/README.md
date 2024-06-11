@@ -13,7 +13,7 @@
 | 2021年08月 | ITシステム会社退職 |
 | 2021年09月 | 起業家コンサル企業入社 |
 | 2021年11月 | 同社内エンジニア部署兼務 |
-| 2022年06月 | 同社エンジニア部署異動 |
+| 2022年06月 | 同社内エンジニア部署異動 |
 
 ## Skills
 - 言語：PHP, JavaScript, Python
@@ -41,7 +41,7 @@
 - 2022年09月29日 [Women’s Career Talk 6 〜キャリアや人生を語り合う！交流会あり！](https://mercari.connpass.com/event/259549/)
 - 2023年04月09日 [Women Tech Terrace 2023](https://cyberagent.connpass.com/event/276834/)
 - 2024年03月28日 [国内最大級の女性&ノンバイナリーの方向けハッカソン「Dots to Code」 #1](https://dotstocode0329.peatix.com/) 【ファイナリスト選出】
-- 2024年05月01日 [女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/) 【[LT発表](https://www.docswell.com/s/chicobami/ZW1P6Y-2024-05-15-175002)】
+- 2024年05月01日 [【女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/) 【[LT発表](https://www.docswell.com/s/chicobami/ZW1P6Y-2024-05-15-175002)】
 - 2024年05月20日 [アニメ好きエンジニアLT＆交流会](https://aegis.connpass.com/event/316802/) 【[LT発表](https://www.docswell.com/s/chicobami/5M1MM2-2024-05-21-095343)】
 
 

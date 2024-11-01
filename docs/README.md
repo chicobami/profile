@@ -36,17 +36,17 @@
 | 2024年06月 |  |  | 社内請求管理方針の変更に伴う請求外部ツールの導入, API構築 |
 | 2024年07月 | 〜 | 2024年08月 | IPO準備に伴うコンプライアンスチェック外部ツールの導入, API構築 |
 
-## Activities
+## Event Activities - pickup -
 - 2019年10月14日 [DevFest Women Tokyo 2019](https://devfestwomen2019.peatix.com/)
 - 2019年12月21日 [TokyoGirls.rb Meetup vol.2](https://techplay.jp/event/759089)
 - 2022年04月24日 [WTM Tokyo - International Women's Day 2022](https://wtm-tokyo.connpass.com/event/241705/)
-- 2022年09月29日 [Women’s Career Talk 6 〜キャリアや人生を語り合う！交流会あり！](https://mercari.connpass.com/event/259549/)
 - 2023年04月09日 [Women Tech Terrace 2023](https://cyberagent.connpass.com/event/276834/)
-- 2024年03月28日 [国内最大級の女性&ノンバイナリーの方向けハッカソン「Dots to Code」 #1](https://dotstocode0329.peatix.com/) 【ファイナリスト選出】
-- 2024年05月01日 [【女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/) 【[LT発表](https://www.docswell.com/s/chicobami/ZW1P6Y-2024-05-15-175002)】
-- 2024年05月20日 [アニメ好きエンジニアLT＆交流会](https://aegis.connpass.com/event/316802/) 【[LT発表](https://www.docswell.com/s/chicobami/5M1MM2-2024-05-21-095343)】
-- 2024年06月07日 [【エンジニアのためのLT大会】IT/Webエンジニアの『ゾッ』とする話](https://sister.connpass.com/event/319897/) 【[LT発表](https://www.docswell.com/s/chicobami/Z1JPNV-2024-06-11-125508)】
-- 2024年10月01日 [【エンジニアLT】IT/Webエンジニアによる『エンジニアの主張』](https://wake-career.connpass.com/event/330547/) 【[LT発表](https://www.docswell.com/s/chicobami/Z4VYJ1-2024-10-01-201244)】
+- 2024年03月28日 【ファイナリスト選出】[国内最大級の女性&ノンバイナリーの方向けハッカソン「Dots to Code」 #1](https://dotstocode0329.peatix.com/)
+- 2024年05月01日 【[LT発表](https://www.docswell.com/s/chicobami/ZW1P6Y-2024-05-15-175002)】[【女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/)
+- 2024年05月20日 【[LT発表](https://www.docswell.com/s/chicobami/5M1MM2-2024-05-21-095343)】[アニメ好きエンジニアLT＆交流会](https://aegis.connpass.com/event/316802/)
+- 2024年06月07日 【[LT発表](https://www.docswell.com/s/chicobami/Z1JPNV-2024-06-11-125508)】[【エンジニアのためのLT大会】IT/Webエンジニアの『ゾッ』とする話](https://sister.connpass.com/event/319897/)
+- 2024年06月22日 [Women Tech Terrace 2024](https://cyberagent.connpass.com/event/319061/)
+- 2024年10月01日 【[LT発表](https://www.docswell.com/s/chicobami/Z4VYJ1-2024-10-01-201244)】[【エンジニアLT】IT/Webエンジニアによる『エンジニアの主張』](https://wake-career.connpass.com/event/330547/)
 
 ## Contact
 - twitter: [@jellyf_i_sh_c](https://x.com/jellyf_i_sh_c)

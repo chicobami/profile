@@ -48,9 +48,18 @@
 - 2024年06月22日 [Women Tech Terrace 2024](https://cyberagent.connpass.com/event/319061/)
 - 2024年10月01日 【[LT発表](https://www.docswell.com/s/chicobami/Z4VYJ1-2024-10-01-201244)】[【エンジニアLT】IT/Webエンジニアによる『エンジニアの主張』](https://wake-career.connpass.com/event/330547/)
 
-## Contact
-- twitter: [@jellyf_i_sh_c](https://x.com/jellyf_i_sh_c)
+## Log
+- [インプットログ](https://wake-career.jp/input-log/1i2bit28bd9)
+
+## Other
+- WAKE Community / [エバンジェリスト](https://note.com/bgrass/n/n1c832e42f2c7)
+- 山田進太郎D&I財団 / [アンバサダー](https://www.shinfdn.org/)
+- Dots to Code / [ハッカソンファイナリスト](https://dotstocode.studio.site/)
+
+## Accounts
+- twitter/x: [@jellyf_i_sh_c](https://x.com/jellyf_i_sh_c)
 - GitHub: [chicobami](https://github.com/chicobami)
 - connpass: [chicobami_2](https://connpass.com/user/chicobami_2/)
 - Qiita: [chicobami](https://qiita.com/chicobami)
 - Wantedly: [chie_fukuizumi](https://www.wantedly.com/id/chie_fukuizumi)
+- YOUTRUST: [chie_fukuizumi](https://youtrust.jp/users/06e031b0ebf456c22b34443101ebb6b5)

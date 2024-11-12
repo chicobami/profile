@@ -49,6 +49,7 @@
 - 2024年06月07日 【[LT発表](https://www.docswell.com/s/chicobami/Z1JPNV-2024-06-11-125508)】[【エンジニアのためのLT大会】IT/Webエンジニアの『ゾッ』とする話](https://sister.connpass.com/event/319897/)
 - 2024年06月22日 [Women Tech Terrace 2024](https://cyberagent.connpass.com/event/319061/)
 - 2024年10月01日 【[LT発表](https://www.docswell.com/s/chicobami/Z4VYJ1-2024-10-01-201244)】[【エンジニアLT】IT/Webエンジニアによる『エンジニアの主張』](https://wake-career.connpass.com/event/330547/)
+- 2024年11月03日 【共著】技術書典17 [わたしのすごい技術大全](https://techbookfest.org/product/1Y5sf1TGi79cu7T7uBW74t?productVariantID=sQbZPCzvwdUTSxsAWUQti6)
 
 ## Log
 - [インプットログ](https://wake-career.jp/input-log/1i2bit28bd9)
